@@ -9,7 +9,7 @@ using System.Web.UI.WebControls;
 namespace OwlBook
 {
 
-    //Programmed by Nimit Johri
+    //Programmed by Nimit Johri | nimit.johri@temple.edu
 
     /// <summary>
     /// This application implements a friends suggestion system based on mutual friends
