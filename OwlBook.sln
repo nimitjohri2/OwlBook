@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwlBook", "OwlBook\OwlBook.csproj", "{882BC0A4-ADD8-4439-86DF-54AC1C2412AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882BC0A4-ADD8-4439-86DF-54AC1C2412AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882BC0A4-ADD8-4439-86DF-54AC1C2412AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882BC0A4-ADD8-4439-86DF-54AC1C2412AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882BC0A4-ADD8-4439-86DF-54AC1C2412AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E488CFD7-A5D3-4B5A-AF83-A5C60EFEAC0E}
+	EndGlobalSection
+EndGlobal
